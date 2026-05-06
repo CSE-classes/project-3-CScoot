@@ -1,0 +1,16 @@
+--- K=200 ---
+  Threads=2  Original=361us  Improved=115us
+  Threads=4  Original=385us  Improved=204us
+  Threads=8  Original=442us  Improved=319us
+--- K=400 ---
+  Threads=2  Original=165us  Improved=126us
+  Threads=4  Original=298us  Improved=408us
+  Threads=8  Original=291us  Improved=322us
+--- K=800 ---
+  Threads=2  Original=215us  Improved=143us
+  Threads=4  Original=261us  Improved=259us
+  Threads=8  Original=1171us  Improved=335us
+--- K=1600 ---
+  Threads=2  Original=360us  Improved=152us
+  Threads=4  Original=1490us  Improved=422us
+  Threads=8  Original=5020us  Improved=367us
